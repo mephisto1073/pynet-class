@@ -1,0 +1,19 @@
+---
+- 0
+- 1
+- 2
+- 3
+- 4
+- 5
+- 6
+- 7
+- 8
+- 9
+- primul_string
+- al_doile_string
+- device_type: juniper
+  ip_address: 1.1.1.1
+  hostname: Router1
+- password: Junos123
+  username: Juniper
+  alias: R1
